@@ -1,0 +1,6 @@
+Data,Amount,Category,Payment Method,Description
+2024-01-01,50.00,Groceries,Credit card,Fruits and vegetables
+2024-01-02,120.00,Transport,Dedit card,Monthly bus pass
+2024-01-03,30.00,Entertainment,Cash,Movie night
+2024-01-04,200.00,Utilities,Bank transfer,Electricity bill
+2024-01-05,75.00,Health care,Credit card,Pharmacy visit
